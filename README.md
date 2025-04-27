@@ -4,8 +4,8 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Examples](#example)
-- [Reflective](reflective)
+- [Example](#example)
+- [Reflective](#reflective)
 
 ## Overview
 
